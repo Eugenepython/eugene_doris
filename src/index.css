@@ -1,0 +1,82 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  //background-color: #242424;
+  background: linear-gradient(135deg, #1c4078, #040b18);
+  
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+
+.portFolioImage {
+  height: 200px;
+  width: auto;
+}
+
+.folio {
+  border: 1px solid black; 
+  padding: 10px;
+
+}
+
+.paragraph-container {
+  width: 100%;
+ text-align: left;
+  width: 100%;
+  float: left;
+  clear: both;
+  width: 100%;
+}
+
+.picAndNameHolder {
+
+display: flex;
+flex-direction: row;
+list-style-type: none; 
+justify-content: space-between;
+margin: 0;
+padding: 0;
+}
+
+  .picHolder {
+
+    justify-content: center;
+  flex-grow: 1;
+  }
+  .nameHolder{
+    justify-content: center;
+  flex-grow: 1;
+
+  }
+
+  .symbol-envelope:before {
+    content: "\2709"; 
+  }
+
+  .mediaBtns {
+    height: 10%;
+    
+  }
+  
+ .white {
+  color: white;
+ } 
+  
+
+ 
