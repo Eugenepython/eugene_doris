@@ -16,7 +16,7 @@ function Experience (){
             <PIC/>
             <IM/>
             <CCCL/>
-            <p className ='paragraph-container'>LLB Law & Accounting - Queens University Belfast</p>
+            <p className ='paragraph-container'>LLB Law & Accounting</p>
 
         </div>
     )
