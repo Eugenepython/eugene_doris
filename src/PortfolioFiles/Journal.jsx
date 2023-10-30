@@ -21,7 +21,7 @@ function Journal() {
         <p><a className = 'white' href="hhttps://github.com/Eugenepython/journal" target="_blank"> Github page and source code</a></p>
        
         
-        <p><a className = 'white' href="hhttps://frontend-production-eda2.up.railway.app/" target="_blank">Designed for laptop screen.</a></p>
+        <p><a className = 'white' href="https://frontend-production-eda2.up.railway.app/" target="_blank">Designed for laptop screen.</a></p>
 
         </div>
       </>
