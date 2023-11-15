@@ -1,4 +1,4 @@
-import amsterdamPic from  '../public/images/amsterdamPic.png';
+import profileImage from  '../public/images/profileImage.jpeg';
 import EmailButton from "./Buttons/EmailButton"
 import LinkedinButton from "./Buttons/LinkedinButton"
 import GithubButton from "./Buttons/GithubButton"
@@ -35,11 +35,12 @@ function Home() {
             <li>Node.js</li>
             <li>Express</li>
             <li>PostgreSQL</li>
+            <li>Firebase</li>
             </ul>
 
               </div>
 
-            <div className = 'picHolder'><img className = 'portFolioImage' src={amsterdamPic} alt="color" /></div>
+            <div className = 'picHolder'><img className = 'portFolioImage' src={profileImage} alt="color" /></div>
 
           </div>
         
