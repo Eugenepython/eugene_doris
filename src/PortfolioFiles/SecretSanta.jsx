@@ -18,9 +18,9 @@ function SecretSanta() {
                 <img className='portFolioImage' src={santa} />
 
 
-                <p><a className='white' href="https://github.com/Eugenepython/secretsanta" target="_blank">Github source code</a></p>
+                <p><a className='white' href="https://github.com/Eugenepython/secretsanta" target="_blank" rel="noopener noreferrer">Github source code</a></p>
 
-                <p><a className='white' href="https://santa-a56f6.web.app/" target="_blank">App site, currently hosted with Firebase</a></p>
+                <p><a className='white' href="https://santa-a56f6.web.app/" target="_blank" rel="noopener noreferrer">App site, currently hosted with Firebase</a></p>
 
             </div>
         </>

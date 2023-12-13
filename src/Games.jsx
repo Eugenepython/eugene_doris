@@ -8,12 +8,14 @@ import TypingGame from './PortfolioFiles/TypingGame.jsx';
 import BondImageGame from './PortfolioFiles/BondImageGame.jsx';
 import CountDown from './PortfolioFiles/CountDown.jsx';
 import SecretSanta from './PortfolioFiles/SecretSanta.jsx';
+import WeatherApp from './PortfolioFiles/WeatherApp.jsx';
 
 function Games() {
   return (
     <div>
 
       <div className='folio'>  <SecretSanta />   </div>
+      <div className='folio'>  <WeatherApp />   </div>
       <div className='folio'>  <BondTenzies />   </div>
       <div className='folio'>  <CountDown />   </div>
       <div className='folio'>     <Quizzical />    </div>
