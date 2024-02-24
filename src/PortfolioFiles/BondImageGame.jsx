@@ -1,4 +1,4 @@
-import bondImage from '../../public/images/bondImage.png';
+import bondImage from '../images/bondImage.png';
 
 function BondImageGame() {
 

@@ -1,8 +1,9 @@
-import profileImage from '../public/images/profileImage.jpeg';
+import profileImage from './images/profileImage.jpeg';
 import EmailButton from "./Buttons/EmailButton"
 import LinkedinButton from "./Buttons/LinkedinButton"
 import GithubButton from "./Buttons/GithubButton"
 import Phone from "./Buttons/Phone"
+
 
 
 function Home() {
@@ -19,7 +20,7 @@ function Home() {
           <div className='nameHolder'>
             <h1>Eugene Doris</h1>
 
-            <p>Full Stack Software Developer</p>
+            <p>Full Stack Web and Mobile Software Developer</p>
             <EmailButton />
             <LinkedinButton />
             <GithubButton />
@@ -28,8 +29,7 @@ function Home() {
 
           <div>
             <ul>
-              <li>HTML</li>
-              <li>CSS</li>
+             
               <li>Javascript</li>
               <li>React</li>
               <li>Redux</li>
@@ -38,6 +38,8 @@ function Home() {
               <li>Express</li>
               <li>PostgreSQL</li>
               <li>Firebase</li>
+              <li>HTML</li>
+              <li>CSS</li>
             </ul>
 
           </div>

@@ -1,4 +1,4 @@
-import textTyping from '../../public/images/textTyping.jpg';
+import textTyping from '../images/textTyping.jpg';
 
 function TypingGame() {
 

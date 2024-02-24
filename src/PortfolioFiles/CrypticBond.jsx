@@ -1,4 +1,4 @@
-import crypticBond from '../../public/images/crypticBond.jpg';
+import crypticBond from '../images/crypticBond.jpg';
 
 
 function CrypticBond() {

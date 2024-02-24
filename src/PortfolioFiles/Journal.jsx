@@ -1,5 +1,5 @@
-import journal1 from '../../public/images/journal1.jpg';
-import journal2 from '../../public/images/journal2.jpg';
+import journal1 from '../images/journal1.jpg';
+import journal2 from '../images/journal2.jpg';
 
 
 function Journal() {

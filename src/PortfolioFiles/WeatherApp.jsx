@@ -1,8 +1,8 @@
-import weatherAppQRandroid from '../../public/images/weatherAppQRandroid.jpg';
+import weatherAppQRandroid from '../images/weatherAppQRandroid.jpg';
 
-import weatherApp from '../../public/images/weatherApp.jpg';
+import weatherApp from '../images/weatherApp.jpg';
 
-import weatherAppQRiOS from '../../public/images/weatherAppQRiOS.jpg';
+import weatherAppQRiOS from '../images/weatherAppQRiOS.jpg';
 
 
 

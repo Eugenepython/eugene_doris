@@ -1,4 +1,4 @@
-import quizzical from '../../public/images/quizzical.jpg';
+import quizzical from '../images/quizzical.jpg';
 
 
 function Quizzical() {

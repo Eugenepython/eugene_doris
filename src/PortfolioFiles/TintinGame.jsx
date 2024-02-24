@@ -1,4 +1,4 @@
-import TintinImage from '../../public/images/TintinGame.jpg';
+import TintinImage from '../images/TintinGame.jpg';
 
 function TintinGame() {
 

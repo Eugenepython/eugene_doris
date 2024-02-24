@@ -1,4 +1,4 @@
-import thetodoapp from '../../public/images/thetodoapp.png';
+import thetodoapp from '../images/thetodoapp.png';
 
 
 function Todoapp() {

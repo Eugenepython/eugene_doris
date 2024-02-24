@@ -1,4 +1,4 @@
-import fitness from '../../public/images/fitness.jpg';
+import fitness from '../images/fitness.jpg';
 
 
 function Fitness() {

@@ -1,4 +1,4 @@
-import costsCalculator from '../../public/images/costsCalculator.jpg';
+import costsCalculator from '../images/costsCalculator.jpg';
 
 
 function CostsCalculator() {

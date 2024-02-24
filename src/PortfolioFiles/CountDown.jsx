@@ -1,4 +1,4 @@
-import thecountdown from '../../public/images/thecountdown.png';
+import thecountdown from '../images/thecountdown.png';
 
 
 function CountDown() {
@@ -21,3 +21,4 @@ function CountDown() {
 }
 
 export default CountDown
+

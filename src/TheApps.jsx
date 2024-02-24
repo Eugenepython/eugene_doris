@@ -6,10 +6,13 @@ import Todoapp from './PortfolioFiles/Todoapp.jsx';
 import Fitness from './PortfolioFiles/Fitness.jsx';
 import Journal from './PortfolioFiles/Journal.jsx';
 import Rubrikal from './PortfolioFiles/Rubrikal.jsx';
+import SongContest from './PortfolioFiles/SongContest.jsx';
+
 
 function TheApps() {
   return (
     <div>
+      <div className = 'folio'>     <SongContest />    </div>
         <div className = 'folio'>     <Rubrikal />    </div>
       <div className = 'folio'>     <CostsBuilder />    </div>
         <div className = 'folio'>     <Fitness />    </div>

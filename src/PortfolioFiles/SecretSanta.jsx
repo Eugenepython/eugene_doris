@@ -1,5 +1,5 @@
 
-import santa from '../../public/images/santa.jpg';
+import santa from '../images/santa.jpg';
 
 
 function SecretSanta() {

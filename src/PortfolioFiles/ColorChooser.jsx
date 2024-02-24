@@ -1,4 +1,4 @@
-import color from '../../public/images/color.jpg';
+import color from '../images/color.jpg';
 
 
 function ColorChooser() {

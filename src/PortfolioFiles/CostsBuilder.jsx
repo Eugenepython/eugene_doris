@@ -1,4 +1,4 @@
-import costsbuild from '../../public/images/costsbuild.jpg';
+import costsbuild from '../images/costsbuild.jpg';
 
 
 function CostsBuilder() {

@@ -1,9 +1,9 @@
 
-import Rubrikal1 from '../../public/images/Rubrikal1.jpeg';
-import Rubrikal2 from '../../public/images/Rubrikal2.jpeg';
-import Rubrikal3 from '../../public/images/Rubrikal3.jpeg';
-import Rubrikal4 from '../../public/images/Rubrikal4.jpeg';
-import Rubrikal5 from '../../public/images/Rubrikal5.jpeg';
+import Rubrikal1 from '../images/Rubrikal1.jpeg';
+import Rubrikal2 from '../images/Rubrikal2.jpeg';
+import Rubrikal3 from '../images/Rubrikal3.jpeg';
+import Rubrikal4 from '../images/Rubrikal4.jpeg';
+import Rubrikal5 from '../images/Rubrikal5.jpeg';
 
 function Rubrikal() {
 

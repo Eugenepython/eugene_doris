@@ -1,4 +1,4 @@
-import bondTenzi from '../../public/images/bondTenzi.jpg';
+import bondTenzi from '../images/bondTenzi.jpg';
 
 function BondTenzies() {
 

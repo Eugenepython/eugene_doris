@@ -1,4 +1,4 @@
-import Movie from '../../public/images/Movie.jpg';
+import Movie from '../images/Movie.jpg';
 
 
 function MovieSearch() {
