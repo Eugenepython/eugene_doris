@@ -32,7 +32,7 @@ function SongContest() {
 
         <p><a className='white' href="https://github.com/Eugenepython/music-frontend" target="_blank" rel="noopener noreferrer">Github frontend source code</a></p>
         <p><a className='white' href="https://github.comEugenepython/music-backend" target="_blank" rel="noopener noreferrer">Github backend source code</a></p>
-        <p><a className='white' href="https://expo.dev/accounts/eugene1981/projects/my-music-game/builds/1060f7b2-ab01-4461-85cb-20c2633e78a8" target="_blank" rel="noopener noreferrer">Download/install the app here on your android phone</a></p>
+        <p><a className='white' href="https://expo.dev/accounts/eugene1981/projects/my-music-game/builds/112648c8-5026-47a7-817f-8bb1599f6d5d" target="_blank" rel="noopener noreferrer">Download/install the app here on your android phone</a></p>
         <ImageCarousel images={images} />
 
       </div>
