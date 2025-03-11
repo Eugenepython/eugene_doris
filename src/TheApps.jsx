@@ -7,11 +7,13 @@ import Fitness from './PortfolioFiles/Fitness.jsx';
 import Journal from './PortfolioFiles/Journal.jsx';
 import Rubrikal from './PortfolioFiles/Rubrikal.jsx';
 import SongContest from './PortfolioFiles/SongContest.jsx';
+import DisbursementTracker from './PortfolioFiles/DisbursementTracker.jsx';
 
 
 function TheApps() {
   return (
     <div>
+      <div className = 'folio'>     <DisbursementTracker />    </div>
       <div className = 'folio'>     <SongContest />    </div>
         <div className = 'folio'>     <Rubrikal />    </div>
       <div className = 'folio'>     <CostsBuilder />    </div>
